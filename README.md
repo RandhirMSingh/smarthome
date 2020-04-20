@@ -3,7 +3,6 @@ Control home appliances using android mobile phone via bluetooth.
 
 ## Flow Diagram
 ![alt text](https://github.com/RandhirMSingh/smarthome/blob/master/SmartHome/images/tech-flow.png)
-
 ![alt text](https://github.com/RandhirMSingh/smarthome/blob/master/SmartHome/images/visuladiagram.png)
 
 ## Hardwares: 
@@ -12,7 +11,6 @@ Control home appliances using android mobile phone via bluetooth.
 3. Relays
 
 ![alt Arduino](https://github.com/RandhirMSingh/smarthome/blob/master/SmartHome/images/arduino.png)
-
 ![alt Bluetooth](https://github.com/RandhirMSingh/smarthome/blob/master/SmartHome/images/bluetooth.png)
 ![alt relay](https://github.com/RandhirMSingh/smarthome/blob/master/SmartHome/images/relay.png)
 
