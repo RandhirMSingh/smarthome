@@ -1,5 +1,5 @@
  
-# smarthome: Aug-2014
+# SmartHome: Aug-2014
 Control home appliances using android mobile phone via bluetooth.
 
 ## Flow Diagram
